@@ -6,7 +6,7 @@
 	"dependencies": {
 		"my-ip": "~>0.2.0"
 	},
-	"description": "A minimal D application.",
+	"description": "App to show you your IPv4 address.",
 	"license": "MIT",
 	"name": "get-ip"
 }
