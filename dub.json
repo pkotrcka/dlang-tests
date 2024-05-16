@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Peter Kotrčka"
+	],
+	"copyright": "Copyright © 2024, Peter Kotrčka",
+	"dependencies": {
+		"my-ip": "~>0.2.0"
+	},
+	"description": "A minimal D application.",
+	"license": "MIT",
+	"name": "get-ip"
+}
